@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital@1&family=Cedarville+Cursive&display=swap');
+h1{
+    text-align: center;
+    font-family: 'Asap', sans-serif;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
